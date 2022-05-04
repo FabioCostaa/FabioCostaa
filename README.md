@@ -1,6 +1,5 @@
 Olá!, eu sou o Fabio 👋
 
-- 🚗 Atualmente trabalho em outra área
 - 👨‍💻 Cursando Ciências Da Computação
 - 👨‍💻 Estudando CSS, HTML e Python
 - 📞 Linkedin: https://www.linkedin.com/in/fabio-costa-4401911b7/
