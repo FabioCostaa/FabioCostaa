@@ -1,7 +1,7 @@
 Olá!, eu sou o Fabio 👋
 
 - 👨‍💻 Cursando Ciências Da Computação.
-- 👨‍💻 Estudando CSS, HTML e JavaScript
+- 👨‍💻 Estudando CSS, HTML, JavaScript, jQuery e React
 - 📞 Linkedin: https://www.linkedin.com/in/fabio-costa-4401911b7/
 
 <div align="center">
